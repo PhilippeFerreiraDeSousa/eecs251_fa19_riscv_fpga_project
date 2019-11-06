@@ -1,6 +1,6 @@
 # EECS251 Project
 
-Implementation of the RISC-V architecture on a Pynq-Z1 FPGA using Vivado: https://github.com/EECS150/project_skeleton_fa19/blob/master/spec/project_spec.pdf
+Implementation of the RISC-V architecture on a Pynq-Z1 FPGA using Vivado: https://github.com/PhilippeFerreiraDeSousa/eecs251_fa19_riscv_fpga_project/blob/master/spec/project_spec.pdf
 
 ## Simulation
 
